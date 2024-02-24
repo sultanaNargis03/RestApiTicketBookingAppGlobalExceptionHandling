@@ -1,0 +1,1 @@
+It is a ticket booking app using RESTfull API,where Exception handled globally. Endpoints of these app--Enroll Tourist(by passing tourist details),Get All Tourist,Get Tourist by Id(you have to provide the tourist id which you can get after enrolled),Update tourist details by passing updated info,Delete tourist by passing the tourist id, Update budget by passing id and new budget.
